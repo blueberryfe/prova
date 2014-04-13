@@ -1,2 +1,1 @@
-<?echo phpinfo();
-//commento di prova?>
+<?echo phpinfo();?>
